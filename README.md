@@ -1,2 +1,2 @@
 # material-JTabbedPane
-Material Like JTabbedPane Design
+A modern, Material Design UI for Java Swing's JTabbedPane

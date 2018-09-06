@@ -3,7 +3,7 @@ package ch.dasoft.jtabbedpane;
 import javax.swing.plaf.basic.BasicTabbedPaneUI;
 import java.awt.*;
 
-public class MaterialTabbedPaneUI extends BasicTabbedPaneUI {
+class MaterialTabbedPaneUI extends BasicTabbedPaneUI {
 
   @Override
   protected void paintTabBackground(Graphics g, int tabPlacement, int tabIndex, int x, int y, int w, int h, boolean isSelected) {
